@@ -1,0 +1,37 @@
+#math installed already in base python
+#json installed already in base python
+#pickle installed already in base python
+#os installed already in base python
+#base64 installed already in base python
+#collections installed already in base python
+#joblib
+#fastapi
+#wheel
+
+#pytest
+
+#tensorflow==2.10.0
+#keras_segmentation
+
+pathlib
+#cv2
+opencv-python
+flask
+numpy
+requests
+pillow
+#from PIL import Image
+#from io import BytesIO
+imgaug
+#imgaug.augmenters
+imageio
+
+flask_sqlalchemy
+pandas
+tensorflow
+#logging
+
+
+#mangum
+
+
