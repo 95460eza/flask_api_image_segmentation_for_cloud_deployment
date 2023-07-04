@@ -29,6 +29,7 @@ imageio
 flask_sqlalchemy
 pandas
 tensorflow
+
 #logging
 
 
